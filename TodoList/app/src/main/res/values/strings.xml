@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TodoList</string>
+    <string name="btn_add_todo">Add todo</string>
+    <string name="btn_delete_done">Delete done</string>
+    <string name="et_todo_title">Enter Todo title</string>
+</resources>
